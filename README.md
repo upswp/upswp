@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![upswp's github stats](https://github-readme-stats.vercel.app/api?username=upswp&show_icons=true&theme=cobalt)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upswp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upswp&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
