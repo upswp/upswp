@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/upswp/-Project-HelloProblem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=-Project-HelloProblem" />
 </a>
-<a href="https://github.com/upswp/SSAFY_Sixth_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SSAFY_Sixth_Project" />
+<a href="https://github.com/upswp/SSAFY_HappyHouse_FinalPJT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SSAFY_HappyHouse_FinalPJT" />
 </a>
 <h2>Algorithm Solution</h2>
 <a href="https://github.com/upswp/Algorithm">
