@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 [![upswp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upswp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Current project</h2>
 <a href="https://github.com/upswp/SOLAFY">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=-Project-HelloProblem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SOLAFY" />
 </a>
 <a href="https://github.com/upswp/SSAFY_HappyHouse_FinalPJT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SSAFY_HappyHouse_FinalPJT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SSAFY_HappyHouse" />
 </a>
 <h2>Algorithm Solution</h2>
 <a href="https://github.com/upswp/Algorithm">
