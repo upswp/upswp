@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SOLAFY" />
 </a>
 <a href="https://github.com/upswp/SSAFY_HappyHouse_FinalPJT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SSAFY_HappyHouse" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SSAFY_HappyHouse_FinalPJT" />
 </a>
 <h2>Algorithm Solution</h2>
 <a href="https://github.com/upswp/Algorithm">
