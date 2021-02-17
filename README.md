@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   -->
 
   # Hello Sangwoo!
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fupswp&count_bg=%23353866&title_bg=%23B4B6BC&icon=twoo.svg&icon_color=%23494DF5&title=Hello+Sangwoo%21&edge_flat=false)](https://hits.seeyoufarm.com)
   ## 소개
 
   - 이름: 박상우
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=upswp&show_icons=true&theme=radical)
   <br>
-  [![upswp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upswp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 <h2>Current project</h2>
 
