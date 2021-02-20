@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   - 이름: 박상우
   - 닉네임: Evan
   - 이메일: [tkddnsos@gmail.com](tkddnsos@gmail.com)
-  - 블로그: [upswp.github.io](https://upswp.github.io/)
+  - 블로그: [Hey Sangwoo!](https://upsw-p.tistory.com/)
   - 취미 : 개발 프로젝트 만들기
 
   ## 관심사
