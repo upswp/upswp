@@ -117,11 +117,3 @@ Here are some ideas to get you started:
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=upswp&show_icons=true&theme=radical)
   <br>
 
-
-<h2>Current project</h2>
-
-<a href="https://github.com/upswp/SOLAFY_1.0.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SOLAFY_1.0.0" />
-</a>
-<a href="https://github.com/upswp/SOLAFY_2.0.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=upswp&repo=SOLAFY_2.0.0" />
