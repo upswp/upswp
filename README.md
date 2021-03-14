@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
   ## Project 🎇
 
-  - **BLOCKDUCE ** (블록체인을 이용한 실시간 투표 시스템)
+  - **BLOCKDUCE** (블록체인을 이용한 실시간 투표 시스템)
   - **PLOVER**  (실시간 멘토링 서비스)
   - **SOLAFY** (SSAFY자율 스터디 학습 플랫폼)
   - **BEATZERO** (대중 음악 시장의 활성화를 위한 음원 판매 플랫폼)
