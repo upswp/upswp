@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 
   ## Project 🎇
 
+  - **THXSTORE** (자영업자를 위한 실시간 타임딜 서비스 진행중🔥)
   - **BLOCKDUCE** (블록체인을 이용한 실시간 투표 시스템)
   - **PLOVER**  (실시간 멘토링 서비스)
   - **SOLAFY** (SSAFY자율 스터디 학습 플랫폼)
