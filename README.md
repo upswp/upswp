@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
   -->
-![Watercolor Background Purple variant](https://user-images.githubusercontent.com/70404643/111873946-2d3e5b00-89d6-11eb-8abe-5bca5d2029b0.png)
+  ![Watercolor Background Purple variant](https://user-images.githubusercontent.com/70404643/111873946-2d3e5b00-89d6-11eb-8abe-5bca5d2029b0.png)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fupswp&count_bg=%23353866&title_bg=%23B4B6BC&icon=twoo.svg&icon_color=%23494DF5&title=Hello+Sangwoo%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -69,12 +69,13 @@ Here are some ideas to get you started:
   ## Project 🎇
 
   - **THXSTORE** (자영업자를 위한 실시간 타임딜 서비스 진행중🔥)
-  - **BLOCKDUCE** (블록체인을 이용한 실시간 투표 시스템)
+  - **Apartment Reservation System**(아파트 입주 예약 시스템 **[private]** )
+  - **BLOCKDUCE** (블록체인을 이용한 실시간 투표 시스템 **[private]** )
   - **PLOVER**  (실시간 멘토링 서비스)
   - **SOLAFY** (SSAFY자율 스터디 학습 플랫폼)
   - **BEATZERO** (대중 음악 시장의 활성화를 위한 음원 판매 플랫폼)
   - **블록체인을 이용한 오폐수 처리 관리 시스템**
-  - **HAPPYHOUSE** (부동산 거래정보를 통한 주택거래 플랫폼)
+  - **HAPPYHOUSE** (부동산 거래정보를 통한 주택거래 플랫폼 **[private]** )
   - **도서 위치 추적 시스템**
 
   ---
@@ -116,4 +117,3 @@ Here are some ideas to get you started:
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=upswp&show_icons=true&theme=radical)
   <br>
-
