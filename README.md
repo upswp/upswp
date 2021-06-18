@@ -35,6 +35,13 @@ Here are some ideas to get you started:
 
   ---
 
+  ## career 🥸
+
+  - **(주)TPMN** / Research Engineer
+  - **SSAFY** (Samsung SW Academy For Youth) 4기
+
+  ---
+
   ## 관심사 🌟
 
   - 지금의 나의 소스를 뜯어보기
@@ -68,6 +75,7 @@ Here are some ideas to get you started:
 
   ## Project 🎇
 
+  - **EAT_IT**(나만을 위한 레시피 진행중 🔥**[private]**)
   - **THXSTORE** (자영업자를 위한 실시간 타임딜 서비스 진행중🔥)
   - **Apartment Reservation System**(아파트 입주 예약 시스템 **[private]** )
   - **BLOCKDUCE** (블록체인을 이용한 실시간 투표 시스템 **[private]** )
