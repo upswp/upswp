@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 
   ## Project 🎇
 
-  - **EAT_IT**(나만을 위한 레시피 진행중 🔥 **[private]**)
-  - **THXSTORE** (자영업자를 위한 실시간 타임딜 서비스 진행중🔥)
+  - **EAT_IT**(나만을 위한 레시피 진행중 🔥)
+  - **THXSTORE** (자영업자를 위한 실시간 타임딜)
   - **Apartment Reservation System**(아파트 입주 예약 시스템 **[private]** )
   - **BLOCKDUCE** (블록체인을 이용한 실시간 투표 시스템 **[private]** )
   - **PLOVER**  (실시간 멘토링 서비스)
