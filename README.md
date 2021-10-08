@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
   - **(주)TPMN** / Research Engineer
   - **SSAFY** (Samsung SW Academy For Youth) 4기
+  - **(주)유미테크** / Intern
 
   ---
 
