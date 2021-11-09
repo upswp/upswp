@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   ## 소개 😎
 
   - 이름: 박상우
-  - 닉네임: Evan
+  - 닉네임: Samuel
   - 이메일: [tkddnsos@gmail.com](tkddnsos@gmail.com)
   - 블로그: [Hey Sangwoo!](https://upsw-p.tistory.com/)
   - 취미 : 개발 프로젝트 만들기
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
   ## career 🥸
 
+  - **(주)살다** / Backend developer
   - **(주)TPMN** / Research Engineer
   - **SSAFY** (Samsung SW Academy For Youth) 4기
   - **(주)유미테크** / Intern
