@@ -46,47 +46,23 @@ Here are some ideas to get you started:
 
   ## 관심사 🌟
 
-  - 지금의 나의 소스를 뜯어보기
-
-  - 이번 프로젝트에서 내가 뭘할건지, 뭘할 수 있는지, 어떤 성장을 할 수 있는지
-
-  - **Backend**
-
-    - spring
-      - spring-security
-      - spring-data
-      - spring-batch
-    - OAuth2
-    - Event driven
-    - RESTFul API
-    - TDD
-    - springboot
-    - Message Broker
-      - kafka
-
-    **NOSQL**
-
-    - Redis
-    - MongoDB
-
-    **BlockChain**
-
-    - Hyperledger Fabric
+  - Kotlin
+  - Gradle
+  - MySQL
+  - JPA
+  - QueryDSL
+  - Junit
+  - Spring validation
+  - Freemarker
 
   ---
 
   ## Project 🎇
 
-  - **EAT_IT**(나만을 위한 레시피 진행중 🔥)
-  - **THXSTORE** (자영업자를 위한 실시간 타임딜)
-  - **Apartment Reservation System**(아파트 입주 예약 시스템 **[private]** )
-  - **BLOCKDUCE** (블록체인을 이용한 실시간 투표 시스템 **[private]** )
-  - **PLOVER**  (실시간 멘토링 서비스)
-  - **SOLAFY** (SSAFY자율 스터디 학습 플랫폼)
-  - **BEATZERO** (대중 음악 시장의 활성화를 위한 음원 판매 플랫폼)
-  - **블록체인을 이용한 오폐수 처리 관리 시스템**
-  - **HAPPYHOUSE** (부동산 거래정보를 통한 주택거래 플랫폼 **[private]** )
-  - **도서 위치 추적 시스템**
+  - [**E-Gloo**(나만을 위한 레시피 진행중 🔥)](https://github.com/penguinsAtEgloo/E-Gloo)
+  - [**THXSTORE** (자영업자를 위한 실시간 타임딜)](https://github.com/upswp/THXSTORE)
+  - [**PLOVER**  (실시간 멘토링 서비스)](https://github.com/upswp/PLOVER)
+  - [**블록체인을 이용한 오폐수 처리 관리 시스템**](https://tb.kibo.or.kr/ktms/supplyTe/download.do?rbsIdx=110&idx=1020190012438&tag=2)
 
   ---
 
@@ -94,7 +70,7 @@ Here are some ideas to get you started:
 
   - **한남대학교 컴퓨터통신무인기술학과 컴퓨터트랙** 졸업, 2016.03 ~ 2020.08
     - 전액장학금, 2016~2020
-  - **Samsung SW Academy For Youth 4기** (삼성전자), 2020.07 ~
+  - **Samsung SW Academy For Youth 4기** (삼성전자), 2020.07 ~ 2021.06
     - SW필수 지식 및 알고리즘 중심의 몰입형 코딩 교육을 바탕으로 실전 SW 프로젝트 수행
   - **청년취업아카데미** (한국클라우드컴퓨팅연구조합), 2018.07.02 ~ 2018.08.10
     - 클라우드 시스템을 위한 웹프로그래밍 기초과정
