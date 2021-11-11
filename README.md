@@ -42,16 +42,12 @@ Here are some ideas to get you started:
   - **SSAFY** (Samsung SW Academy For Youth) 4기
   - **(주)유미테크** / Intern
 
-  ---
-
   ## Project 🎇
 
   - [**E-Gloo**(나만을 위한 레시피 진행중 🔥)](https://github.com/penguinsAtEgloo/E-Gloo)
   - [**THXSTORE** (자영업자를 위한 실시간 타임딜)](https://github.com/upswp/THXSTORE)
   - [**PLOVER**  (실시간 멘토링 서비스)](https://github.com/upswp/PLOVER)
   - [**블록체인을 이용한 오폐수 처리 관리 시스템**](https://tb.kibo.or.kr/ktms/supplyTe/download.do?rbsIdx=110&idx=1020190012438&tag=2)
-
-  ---
 
   ## Education 📚
 
@@ -62,7 +58,6 @@ Here are some ideas to get you started:
   - **청년취업아카데미** (한국클라우드컴퓨팅연구조합), 2018.07.02 ~ 2018.08.10
     - 클라우드 시스템을 위한 웹프로그래밍 기초과정
 
-  ---
 
   ## Awards 🏆
 
@@ -76,7 +71,6 @@ Here are some ideas to get you started:
     - 학습프로그램 아이디어 공모전(한남대학교) **우수팀**
     - 5분 스피치 경연대회(한남대학교) **우수상**
 
-  ---
 
   ## Volunteer Activity 👋
 
@@ -86,7 +80,6 @@ Here are some ideas to get you started:
   - **컴파일러 전공 교육**(한남대학교, 대전느리울중학교), 2019.11.01 ~ 2019.12.06
   - **인공지능 전공 교육 봉사**(한남대학교, 대전동산중학교), 2019.10.28 ~ 2019.11.25
 
-  ---
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=upswp&show_icons=true&theme=radical)
   <br>
