@@ -44,19 +44,6 @@ Here are some ideas to get you started:
 
   ---
 
-  ## 관심사 🌟
-
-  - Kotlin
-  - Gradle
-  - MySQL
-  - JPA
-  - QueryDSL
-  - Junit
-  - Spring validation
-  - Freemarker
-
-  ---
-
   ## Project 🎇
 
   - [**E-Gloo**(나만을 위한 레시피 진행중 🔥)](https://github.com/penguinsAtEgloo/E-Gloo)
