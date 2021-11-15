@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
   ## career 🥸
 
-  - **(주)살다** / Backend developer
   - **(주)TPMN** / Backend developer
   - **SSAFY** (Samsung SW Academy For Youth) 4기
   - **(주)유미테크** / Intern
