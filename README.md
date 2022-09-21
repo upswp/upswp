@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
   ## career 🥸
 
+  - **Floatic** / Backend developer 
   - **(주)살다** / Backend developer
   - **(주)TPMN** / Backend developer
   - **SSAFY** (Samsung SW Academy For Youth) 4기
