@@ -38,16 +38,7 @@ Here are some ideas to get you started:
 
   - **Floatic** / Backend developer 
   - **(주)살다** / Backend developer
-  - **(주)TPMN** / Backend developer
   - **SSAFY** (Samsung SW Academy For Youth) 4기
-  - **(주)유미테크** / Intern
-
-  ## Project 🎇
-
-  - [**E-Gloo**(나만을 위한 레시피 진행중 🔥)](https://github.com/penguinsAtEgloo/E-Gloo)
-  - [**THXSTORE** (자영업자를 위한 실시간 타임딜)](https://github.com/upswp/THXSTORE)
-  - [**PLOVER**  (실시간 멘토링 서비스)](https://github.com/upswp/PLOVER)
-  - [**블록체인을 이용한 오폐수 처리 관리 시스템**](https://tb.kibo.or.kr/ktms/supplyTe/download.do?rbsIdx=110&idx=1020190012438&tag=2)
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=upswp&show_icons=true&theme=radical)
   <br>
